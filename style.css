@@ -12,8 +12,8 @@ body{
 .container{
     background-color: darkcyan;
     padding: 30px 30px;
+    
     border-radius: 10px;
-    box-shadow: 2px 2px 28px 2px;
     color: aliceblue;
 }
 
